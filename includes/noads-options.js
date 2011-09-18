@@ -247,7 +247,7 @@ var options = {
             '@@||wikipedia.org^',
             '@@||ya.ru^',
             '@@||yahoo.com^',
-            '@@||youtube.com^'
+            '@@||youtube.com^',
             '@@||youtube-nocookie.com^'
         ];
 
