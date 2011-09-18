@@ -248,6 +248,7 @@ var options = {
             '@@||ya.ru^',
             '@@||yahoo.com^',
             '@@||youtube.com^'
+            '@@||youtube-nocookie.com^'
         ];
 
         var skipScripts = [
