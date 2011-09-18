@@ -215,7 +215,7 @@ var TRANSLATION = function () {
             mMK: 'Filtry magiczne',
             mURLfilters: 'Filtry URL',
             mUserURLfilters: 'Filtry URL u\u017Cytkownika',
-            mUpdates: 'Updates',
+            mUpdates: 'Aktualizacja',
             mSubscriptions: 'Subskrypcje',
             mHelp: 'Pomoc',
             pEnabled: 'W\u0142\u0105czone',
@@ -239,8 +239,8 @@ var TRANSLATION = function () {
             pCSSlinks: 'Linki osadzone w CSS',
             pDebug: 'Debuguj',
             pInvalidSelector: 'Selektor CSS jest niepoprawny. Prosz\u0119 sprawdzi\u0107 sk\u0142adni\u0119.',
-            uLastUpdate: 'Last update:',
-            uInterval: 'Interval (days):'
+            uLastUpdate: 'Ostatnia aktualizacja:',
+            uInterval: 'Aktualizuj subskrypcje co (dni):'
         };
         case 'zh-tw': return {
             _s: function (count) { return (count > 1) ? '' : ''; },
